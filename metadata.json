@@ -1,0 +1,5 @@
+{
+  "name": "Y Impact Management Portal",
+  "description": "A comprehensive SME debt tracking and repayment management system. Features a master database, daily transaction logging, and automated receipt generation with PDF export.",
+  "requestFramePermissions": []
+}
